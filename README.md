@@ -19,4 +19,15 @@ X4
 57
 9X
 
+Probar en mi propio hosting
+http://articulos.ubik.ar/numeros.php
+
+
+O descargar en una carpeta xampp/htdocs/algoritmia
+
+Y ejecutar
+http://localhost/algoritmia/numeros.php
+
+
+
 
